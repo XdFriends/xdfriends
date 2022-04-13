@@ -1,0 +1,6 @@
+{      
+
+             "ip":"StarGaming156.aternos.me:,
+             "port":"28930
+             "name":"Friends"
+}
